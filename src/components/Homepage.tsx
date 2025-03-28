@@ -1,5 +1,3 @@
-import React from "react";
-
 const Homepage = () => {
   return (
     <div className="bg-black py-10 flex flex-col items-center text-center px-4">
