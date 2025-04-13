@@ -1,4 +1,3 @@
-import React from "react";
 import { FaCode, FaMobileAlt, FaPencilRuler, FaBullhorn } from "react-icons/fa";
 import teamDiscussionImg from "../assets/teamdiscussion.avif";
 

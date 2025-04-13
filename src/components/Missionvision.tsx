@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import missionImg from "../assets/missionvisionpic1.png";
 import visionImg from "../assets/ourvision.avif";
 

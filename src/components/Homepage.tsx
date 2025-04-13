@@ -1,5 +1,4 @@
 // src/components/HeroSection.tsx
-import React from "react";
 import heroBg from "../assets/herosection-bg-image.png";
 
 const HeroSection = () => {
