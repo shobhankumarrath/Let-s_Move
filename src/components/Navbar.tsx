@@ -22,7 +22,7 @@ const Navbar = () => {
         <a href="#aboutus" className="hover:text-yellow-400">
           About Us
         </a>
-        <a href="#contact" className="hover:text-yellow-400">
+        <a href="#contact-form" className="hover:text-yellow-400">
           Contact
         </a>
       </nav>

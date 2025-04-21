@@ -22,7 +22,7 @@ const teamMembers = [
     img: Sujay,
   },
   {
-    name: "Reghav",
+    name: "Raghav",
     role: "Consultant",
     desc: "",
     img: raghavimg,
@@ -33,7 +33,7 @@ const TeamSection = () => {
   return (
     <div className="bg-white py-16 px-4 text-center">
       <h2 className="text-3xl font-bold text-black mb-2">MEET OUR TEAM</h2>
-      <p className="text-gray-600 mb-10">professional team member</p>
+      <p className="text-gray-600 mb-10 font-sans">Professional Team Member</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 max-w-7xl mx-auto">
         {teamMembers.map((member, index) => (

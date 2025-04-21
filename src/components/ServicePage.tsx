@@ -23,15 +23,15 @@ const OurServices = () => {
           />
           <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 bg-yellow-400 px-6 py-4 flex justify-between gap-6 rounded shadow-md text-black w-[90%]">
             <div className="text-center">
-              <p className="text-xl font-bold">200+</p>
+              <p className="text-xl font-bold">20+</p>
               <p className="text-sm">Team member</p>
             </div>
             <div className="text-center">
-              <p className="text-xl font-bold">900+</p>
+              <p className="text-xl font-bold">9+</p>
               <p className="text-sm">Client review</p>
             </div>
             <div className="text-center">
-              <p className="text-xl font-bold">20+</p>
+              <p className="text-xl font-bold">10+</p>
               <p className="text-sm">Complete project</p>
             </div>
           </div>

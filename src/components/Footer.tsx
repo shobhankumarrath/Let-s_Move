@@ -32,6 +32,9 @@ const Footer = () => {
             <li>
               <a href="#aboutus">About Us</a>
             </li>
+            <li>
+              <a href="#contact-form">Contact Us</a>
+            </li>
           </ul>
         </div>
 

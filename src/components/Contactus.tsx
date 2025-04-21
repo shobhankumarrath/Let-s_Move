@@ -83,7 +83,10 @@ const ContactForm: React.FC = () => {
   };
 
   return (
-    <div className="max-w-xl mx-auto bg-black p-6 rounded shadow-md mt-10">
+    <div
+      id="contact-form"
+      className="max-w-xl mx-auto bg-black p-6 rounded shadow-md mt-10"
+    >
       <h2 className="text-2xl font-bold mb-4 text-center text-white">
         Contact Us
       </h2>

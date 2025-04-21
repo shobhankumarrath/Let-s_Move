@@ -22,12 +22,14 @@ const HeroSection = () => {
           Your Business's Potential with our Tailored Solutions
         </p>
         <div className="mt-8 flex justify-center space-x-4">
-          <button className="bg-yellow-400 text-black px-6 py-2 rounded hover:bg-yellow-500">
-            Get Quote
-          </button>
-          <button className="border border-white px-6 py-2 rounded hover:bg-white hover:text-black">
-            Learn more →
-          </button>
+          <a href="#contact-form">
+            <button className="bg-yellow-400 text-black px-6 py-2 rounded hover:bg-yellow-500">
+              Get Quote
+            </button>
+          </a>
+          {/* <button className="border border-white px-6 py-2 rounded hover:bg-white hover:text-black">
+            Learn more → 
+          </button> */}
         </div>
       </div>
     </section>
