@@ -72,7 +72,7 @@ const Navbar = () => {
             About Us
           </a>
           <a
-            href="#contact"
+            href="#contact-form"
             onClick={closeMenu}
             className="block hover:text-yellow-400"
           >
