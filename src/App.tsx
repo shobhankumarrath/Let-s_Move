@@ -6,6 +6,7 @@ import TestimonialSlider from "./components/testimonial";
 import TeamDetails from "./components/Teamdetails";
 import LatestNews from "./components/LatestNews";
 import Footer from "./components/Footer";
+import ContactForm from "./components/Contactus";
 function App() {
   return (
     <>
@@ -14,6 +15,7 @@ function App() {
       <ServicePage />
       <MissionVision />
       <TeamDetails />
+      <ContactForm />
       <TestimonialSlider />
       <LatestNews />
       <Footer />
